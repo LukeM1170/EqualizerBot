@@ -10,7 +10,7 @@ Before you file an issue, please consider these simple rules:
 - Stay constructive, even if a discussion seems to get heated
 
 Currently there are the following templates to submit an issue:
-1. [Bug Report](https://github.com/ITheEqualizer/EqualizerBot/issues/new?template=ISSUE_TEMPLATE.md)
+1. [Bug Report](https://github.com/ITheEqualizer/EqualizerBot/issues/new?template=Bug_report.md)
 2. [Suggestion](https://github.com/ITheEqualizer/EqualizerBot/issues/new?template=Feature_request.md)
 
 ## Links
