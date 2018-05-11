@@ -9,14 +9,15 @@ A clear and concise description of what the bug is.
 
 **To Reproduce**
 Steps to reproduce the behavior:
-1. Use the [command you run when you get error]
+1. Use the [command name you run when you get error]
 2. See error
 
 **Expected behavior**
 A clear and concise description of what you expected to happen.
 
 **Screenshots**
-If applicable, add screenshots to help explain your problem.
+![Screenshot](https://equalizerbot.xyz/Bot/Images/Equalizer.png)
+[Link to Server](https://discord.gg/R5cEHyy)
 
 **Additional context**
 Add any other context about the problem here.
