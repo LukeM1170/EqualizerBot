@@ -9,6 +9,8 @@ Before you file an issue, please consider these simple rules:
 - Follow the Discord ToS just as in the Discord Server or the DiscordBotList Website
 - Stay constructive, even if a discussion seems to get heated
 
+Please click on [Issues](https://github.com/ITheEqualizer/EqualizerBot/issues) and exlpain the bug / feature you want to be fixed / added.
+
 ## Links
 <p><a href="https://discordbots.org/bot/equalizer"><img src="https://discordbots.org/api/widget/405349279331254282.svg" alt="Equalizer Bot"/></a></p>
 <p><a href="https://discord.gg/R5cEHyy"><img src="https://discordapp.com/api/guilds/405241739486429194/widget.png?style=banner3"></a></p>
